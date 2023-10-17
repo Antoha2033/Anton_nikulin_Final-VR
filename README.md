@@ -6,8 +6,7 @@
 - [Description](#description)
 - [Caractéristiques clés](#Caractéristiques-clés)
 - [Image Moodboard](#image-moodboard)
-- [Environnements](#Environnements)
-- [Objets](#Objets)
+- [Sons Moodboard](#Sons-moodboard)
 - [Virtual Environment Map](#virtual-environment-map)
 - [Draw.io Schema](#drawio-schema)
 
@@ -74,12 +73,12 @@ Prototypes d'objets
   </tr>
   </table>
 
-## Sound Moodboard
+## Sons Moodboard
 
-[Include a moodboard of sounds and audio clips that reflect the mood and atmosphere of your VR game. You can use links to sound files or descriptions.]
+Une paire d'idées sonores pour la principale source sonore du jeu, le vent environnemental et le craquement du bois des ponts.
 
-- [Sound 1 (Link)](https://pixabay.com/sound-effects/wooden-floor-cracking-37890/)
-- [Sound 2 (Link)](https://pixabay.com/sound-effects/wooden-floor-cracking-37890/)
+- [Sound 1-Vent (Link)](https://pixabay.com/sound-effects/wooden-floor-cracking-37890/)
+- [Sound 2-Bois (Link)](https://pixabay.com/sound-effects/wooden-floor-cracking-37890/)
 
 ## Virtual Environment Map
 
