@@ -37,8 +37,11 @@ Art conceptuel et idées d'environnements
 <table>
   <tr>
     <td><img src="Asset/enviroment-2.jpg" alt="Image 1"></td>
+    <figcaption>Image Caption</figcaption>
     <td><img src="Asset/enviroment-4.jpg" alt="Image 2"></td>
+    <figcaption>Image Caption</figcaption>
     <td><img src="Asset/enviroment-5.jpg" alt="Image 3"></td>
+    <figcaption>Image Caption</figcaption>
   </tr>
 </table>
 
