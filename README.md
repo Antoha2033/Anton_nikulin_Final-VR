@@ -29,8 +29,6 @@
 
 4. **Conception de Niveaux Stimulante :** Le jeu propose une série de niveaux de plus en plus difficiles, chacun présentant de nouveaux obstacles, des dangers environnementaux et des casse-tête qui mettent à l'épreuve les compétences et la détermination du joueur.
 
-"Traversée du Canyon" offre une expérience VR unique et palpitante où les joueurs doivent compter sur leurs compétences physiques et mentales pour traverser le canyon et réclamer le trésor convoité. Avec la menace de tomber dans l'abîme omniprésente, les joueurs devront faire preuve de force, d'agilité et de réflexion rapide pour émerger victorieux de cette aventure exaltante. Aurez-vous ce qu'il faut pour survivre au voyage périlleux et découvrir les richesses cachées de la grotte du canyon ?
-
 ## Image Moodboard
 
 [Include a moodboard of images that represent the visual style, themes, and aesthetics of your VR game. You can use images or links to images.]
