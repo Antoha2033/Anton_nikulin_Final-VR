@@ -78,7 +78,7 @@ Prototypes d'objets
 
 [Include a moodboard of sounds and audio clips that reflect the mood and atmosphere of your VR game. You can use links to sound files or descriptions.]
 
-- [Sound 1 (Link)]([sound3.mp3](https://pixabay.com/sound-effects/wooden-floor-cracking-37890/))
+- [Sound 1 (Link)](https://pixabay.com/sound-effects/wooden-floor-cracking-37890/)
 - [Sound 2 (Link)](sound3.mp3)
 
 ## Virtual Environment Map
