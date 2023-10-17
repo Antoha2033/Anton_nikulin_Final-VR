@@ -6,7 +6,8 @@
 - [Description](#description)
 - [Caractéristiques clés](#Caractéristiques-clés)
 - [Image Moodboard](#image-moodboard)
-- [Sound Moodboard](#sound-moodboard)
+- [Environnements](#Environnements)
+- [Objets](#Objets)
 - [Virtual Environment Map](#virtual-environment-map)
 - [Draw.io Schema](#drawio-schema)
 
