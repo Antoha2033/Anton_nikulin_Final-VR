@@ -36,12 +36,12 @@ Art conceptuel et idées d'environnements
 
 <table>
   <tr>
-    <td><img src="Asset/enviroment-2.jpg" alt="Image 1"></td>
-    <td><img src="Asset/enviroment-4.jpg" alt="Image 2"></td>
-    <td><img src="Asset/enviroment-5.jpg" alt="Image 3"></td>
-    <td><img src="Asset/enviroment-6.jpg" alt="Image 4"></td>
-    <td><img src="Asset/enviroment-7.jpg" alt="Image 5"></td>
-    <td><img src="Asset/enviroment-1.jpg" alt="Image 6"></td>
+    <td><img src="Asset/enviroment-2.jpg" alt="Image 1" width="400" height="300"></td>
+    <td><img src="Asset/enviroment-4.jpg" alt="Image 2" width="400" height="300"></td>
+    <td><img src="Asset/enviroment-5.jpg" alt="Image 3" width="400" height="300"></td>
+    <td><img src="Asset/enviroment-6.jpg" alt="Image 4" width="400" height="300"></td>
+    <td><img src="Asset/enviroment-7.jpg" alt="Image 5" width="400" height="300"></td>
+    <td><img src="Asset/enviroment-1.jpg" alt="Image 6" width="400" height="300"></td>
     
   </tr>
 </table>
