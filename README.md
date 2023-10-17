@@ -51,7 +51,6 @@ Art conceptuel et idées d'environnements
   </tr>
 </table>
 
-
 Concepts et idées d'objets
 
 <table>
@@ -64,6 +63,7 @@ Concepts et idées d'objets
     <td><img src="Asset/Ash_Canyon-3.webp" alt="Image 3" ></td>
     <td><img src="Asset/gold-1.jpg" alt="Image 4" ></td>
   </tr>
+  </table>
 
 
 
