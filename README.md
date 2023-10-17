@@ -77,7 +77,7 @@ Prototypes d'objets
 
 Une paire d'idées sonores pour la principale source sonore du jeu, le vent environnemental et le craquement du bois des ponts.
 
-- [Sound 1-Vent (Link)](https://pixabay.com/sound-effects/wooden-floor-cracking-37890/)
+- [Sound 1-Vent (Link)](https://pixabay.com/sound-effects/wind-during-snow-storm-2-17562/)
 - [Sound 2-Bois (Link)](https://pixabay.com/sound-effects/wooden-floor-cracking-37890/)
 
 ## Virtual Environment Map
