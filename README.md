@@ -12,8 +12,8 @@
 
 ## Summary
 
-[
-"Traversée du Canyon", est un jeu de parkour VR où l'équilibre du joueur est son outil principal.]
+
+"Traversée du Canyon", est un jeu de parkour VR où l'équilibre du joueur est son outil principal.
 
 ## Description
 
