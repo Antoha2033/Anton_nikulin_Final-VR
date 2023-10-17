@@ -36,8 +36,8 @@ Art conceptuel et idées d'environnements
 
 <table>
   <tr>
-    <td><img src="Asset/enviroment-2.jpg" alt="Image 1" width="400" height="300"></td>
-    <td><img src="Asset/enviroment-4.jpg" alt="Image 2" width="400" height="300"></td>
+    <td><img src="Asset/enviroment-2.jpg" alt="Image 1" ></td>
+    <td><img src="Asset/enviroment-4.jpg" alt="Image 2" ></td>
   </tr>
     
   <tr>
