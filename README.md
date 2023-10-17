@@ -34,10 +34,13 @@
 
 Art conceptuel et idées d'environnements
 
-<img src="Asset/enviroment-2.jpg" alt="Image 1" align="left">
-<img src="Asset/enviroment-4.jpg" alt="Image 2" align="right">
-<img src="Asset/enviroment-5.jpg" alt="Image 3" align="center">
-
+<table>
+  <tr>
+    <td><img src="image1.jpg" alt="Image 1"></td>
+    <td><img src="image2.jpg" alt="Image 2"></td>
+    <td><img src="image3.jpg" alt="Image 3"></td>
+  </tr>
+</table>
 
 
 
