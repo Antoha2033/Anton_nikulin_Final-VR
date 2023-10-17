@@ -35,9 +35,9 @@
 [Include a moodboard of images that represent the visual style, themes, and aesthetics of your VR game. You can use images or links to images.]
 
 ![Image 1](Asset/Ash_Canyon-concept.webp)
-
+![Image 2](Asset/enviroment-1.jpg)
 ![Image 2](Asset/enviroment-2.jpg)
-![Image 2](Asset/enviroment-3.jpg)
+
 ![Image 2](Asset/enviroment-4.jpg)
 ![Image 2](Asset/enviroment-5.jpg)
 ![Image 2](Asset/enviroment-6.jpg)
