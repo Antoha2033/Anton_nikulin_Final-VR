@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- [Summary](#summary)
+- [Résumé](#summary)
 - [Description](#description)
 - [Caractéristiques clés](#Caractéristiques-clés)
 - [Image Moodboard](#image-moodboard)
 - [Sons Moodboard](#Sons-moodboard)
-- [Virtual Environment Map](#virtual-environment-map)
+- [Carte de l'environnement virtuel](#virtual-environment-map)
 - [Draw.io Schema](#drawio-schema)
 
 ## Summary
@@ -80,7 +80,7 @@ Une paire d'idées sonores pour la principale source sonore du jeu, le vent envi
 - [Sound 1-Vent (Link)](https://pixabay.com/sound-effects/wind-during-snow-storm-2-17562/)
 - [Sound 2-Bois (Link)](https://pixabay.com/sound-effects/wooden-floor-cracking-37890/)
 
-## Virtual Environment Map
+## Carte de l'environnement virtuel
 
 Une carte de base de l'environnement virtuel dans votre jeu VR.
 
