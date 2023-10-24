@@ -58,9 +58,16 @@ Concepts et idées d'objets
     <td><img src="Asset/sc2.jpg" alt="Image 4" ></td>
   </tr>
  </table>
-    
+
+  <table>
+  <tr>
     <td><img src="Asset/sc3.jpg" alt="Image 5" ></td>
     <td><img src="Asset/sc4.jpg" alt="Image 6" ></td>
+  </tr>
+ </table>
+
+  <table>
+  <tr>
     <td><img src="Asset/sc5.jpg" alt="Image 7" ></td>
     <td><img src="Asset/sc6.jpg" alt="Image 8" ></td>
   </tr>
