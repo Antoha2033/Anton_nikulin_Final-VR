@@ -63,18 +63,6 @@ Concepts et idées d'objets
   </tr>
  </table>
 
-<table>
-  <tr>
-    <td><img src="Asset/Ash_Canyon-1.jpg" alt="Image 1" ></td>
-    <td><img src="Asset/Ash_Canyon-2.webp" alt="Image 2" ></td>
-  </tr>
-
-
-  <tr>
-    <td><img src="Asset/Ash_Canyon-3.webp" alt="Image 9" ></td>
-    <td><img src="Asset/gold-1.jpg" alt="Image 10" ></td>
-  </tr>
-  </table>
 
 
 
