@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Résumé](#summary)
+- [Résumé](#Résumé)
 - [Description](#description)
 - [Caractéristiques clés](#Caractéristiques-clés)
 - [Image Moodboard](#image-moodboard)
