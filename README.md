@@ -90,5 +90,5 @@ Une paire d'idées sonores pour la principale source sonore du jeu, le vent envi
 
 ## Drawio-schema
 
-<td><img src="Asset/MAP-1.jpg" alt="Draw.io" ></td>
+<td><img src="Asset/Draw.io.png" alt="Draw.io" ></td>
 
