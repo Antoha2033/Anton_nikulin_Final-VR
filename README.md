@@ -10,7 +10,7 @@
 - [Carte de l'environnement virtuel](#virtual-environment-map)
 - [Draw.io Schema](#drawio-schema)
 
-## Summary
+## Résumé
 
 
 "Traversée du Canyon", est un jeu de parkour VR où l'équilibre du joueur est son outil principal.
