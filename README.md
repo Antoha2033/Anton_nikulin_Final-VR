@@ -82,13 +82,14 @@ Une paire d'idées sonores pour la principale source sonore du jeu, le vent envi
 
 ## Virtual Environment Map
 
-[Provide a basic map or layout of the virtual environment in your VR game. This can be a simple diagram or description of the various areas and elements within the game world.]
+Une carte de base de l'environnement virtuel dans votre jeu VR.
 
 <td><img src="Asset/MAP-1.jpg" alt="Image 1" ></td>
 <td><img src="Asset/MAP-2.jpg" alt="Image 2" ></td>
 <td><img src="Asset/LEGEND.jpg" alt="Image 2" ></td>
 
 ## Drawio-schema
+
 
 <td><img src="Asset/DRAWIO.png" alt="Draw.io" ></td>
 
