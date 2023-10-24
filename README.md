@@ -54,11 +54,6 @@ Concepts et idées d'objets
 
 <table>
   <tr>
-    <td><img src="Asset/Ash_Canyon-1.jpg" alt="Image 1" ></td>
-    <td><img src="Asset/Ash_Canyon-2.webp" alt="Image 2" ></td>
-  </tr>
-
-  <tr>
     <td><img src="Asset/sc1.jpg" alt="Image 3" ></td>
     <td><img src="Asset/sc2.jpg" alt="Image 4" ></td>
     <td><img src="Asset/sc3.jpg" alt="Image 5" ></td>
@@ -66,12 +61,22 @@ Concepts et idées d'objets
     <td><img src="Asset/sc5.jpg" alt="Image 7" ></td>
     <td><img src="Asset/sc6.jpg" alt="Image 8" ></td>
   </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="Asset/Ash_Canyon-1.jpg" alt="Image 1" ></td>
+    <td><img src="Asset/Ash_Canyon-2.webp" alt="Image 2" ></td>
+  </tr>
+
 
   <tr>
     <td><img src="Asset/Ash_Canyon-3.webp" alt="Image 9" ></td>
     <td><img src="Asset/gold-1.jpg" alt="Image 10" ></td>
   </tr>
   </table>
+
+
 
 Prototypes d'objets
 
