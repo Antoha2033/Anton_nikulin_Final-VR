@@ -91,5 +91,5 @@ Une carte de base de l'environnement virtuel dans votre jeu VR.
 ## Drawio-schema
 
 
-<td><img src="Asset/DRAWIO.png" alt="Draw.io" ></td>
+<td><img src="Asset/Drawio2.png" alt="Draw.io" ></td>
 
